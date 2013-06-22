@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello (R)</string>
+    <string name="go">GO! (R)</string>
+    <string name="goodbye">Good Bye (R)</string>
+    <string name="change">Change (R)</string>
+
+</resources>

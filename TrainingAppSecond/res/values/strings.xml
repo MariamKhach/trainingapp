@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrainingAppSecond</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+    <string name="go">GO!</string>
+    <string name="goodbye">Good Bye</string>
+    <string name="change">Change</string>
+    <string name="bt1">BT1</string>
+    <string name="bt2">BT2</string>
+    <string name="bt3">BT3</string>
+    <string name="edit">Edit</string>
+    <string name="ok_button">OK</string>
+    <string name="go_text_button">GO!</string>
+    <string name="title_activity_second">Second</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_third">Third</string>
+    <string name="title_activity_forth">Forth</string>
+
+</resources>
